@@ -1,1 +1,1 @@
-[<img src="https://github.com/H0R4T1U/H0R4T1U/blob/master/gif.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://github.com/H0R4T1U/H0R4T1U/blob/master/gif.gif"/>]
